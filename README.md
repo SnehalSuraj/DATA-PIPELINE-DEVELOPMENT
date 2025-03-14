@@ -22,4 +22,5 @@ This ETL process successfully prepares the dataset for machine learning by:
     Identifying and retaining outliers where necessary.
     Encoding categorical variables.
     Scaling numerical features for better comparability.
+    
     Analyzing correlations for potential feature selection.
