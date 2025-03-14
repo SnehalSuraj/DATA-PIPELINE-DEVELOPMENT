@@ -22,5 +22,14 @@ This ETL process successfully prepares the dataset for machine learning by:
     Identifying and retaining outliers where necessary.
     Encoding categorical variables.
     Scaling numerical features for better comparability.
+
+##OUTPUT-
+![Image](https://github.com/user-attachments/assets/2f6650e1-af3c-4b6a-8053-fa37fec78820)
+![Image](https://github.com/user-attachments/assets/d3f05fe0-effb-4ac9-b216-54fd6ce132c9)
+![Image](https://github.com/user-attachments/assets/b4c5f637-1a7d-4347-9656-000c1ed6e2e3)
+![Image](https://github.com/user-attachments/assets/c92ac1aa-035f-47bd-9f0a-8666f493079d)
+![Image](https://github.com/user-attachments/assets/8fd00c30-668d-461c-8454-cd26d6afecaa)
+![Image](https://github.com/user-attachments/assets/fb44f351-d2e3-4ef7-99d6-309223d3a4f4)
+![Image](https://github.com/user-attachments/assets/82cf2a77-5a29-4c73-81bc-bbb5509adcc5)
     
     Analyzing correlations for potential feature selection.
